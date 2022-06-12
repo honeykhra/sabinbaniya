@@ -1,8 +1,9 @@
 <div align="center">
-        <img src="./assets/gif/coding.gif" height="250px" width="720" />
+        <img src="./assets/gif/coding.gif" height="300" width="720" />
 </div>
+<div width="720">
 
-#### 🙋‍♂️
+# 🙋‍♂️
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=15F7BE&lines=Hey+there+%F0%9F%91%8B;My+name+is+Sabin+Baniya;Welcome+to+my+Github)](https://git.io/typing-svg)
 
@@ -12,7 +13,7 @@ I'm a software engineering student currently stuyding in my country Nepal 🇳�
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabinbaniya&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </div>
 
-#### 🧑‍💻
+# 🧑‍💻
 
 <div align="center">
 
@@ -20,7 +21,7 @@ I'm a software engineering student currently stuyding in my country Nepal 🇳�
 
 </div>
 
-##### 🐤
+# 🐤
 
 <div align="center">
 
@@ -28,6 +29,8 @@ I'm a software engineering student currently stuyding in my country Nepal 🇳�
 
 </div>
 
-#### 🐙
+# 🐙
 
 ![github_graph](/profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
