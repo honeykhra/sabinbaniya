@@ -1,4 +1,6 @@
-<img src="./assets/gif/coding.gif" height="200px" width="720" style="border-radius: 7px;" />
+<div align="center">
+        <img src="./assets/gif/coding.gif" height="250px" width="720" />
+</div>
 
 #### 🙋‍♂️
 
@@ -7,7 +9,7 @@
 I'm a software engineering student currently stuyding in my country Nepal 🇳🇵. I'm a fullstack javascript developer although I'm mostly working on the frontend. I code for fun.
 
 <div align="center">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sabinbaniya&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabinbaniya&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </div>
 
 #### 🧑‍💻
