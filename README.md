@@ -1,76 +1,27 @@
-<p align="center"><img width="150" height="auto" src="https://i.imgur.com/PdXjMS9.png" height="175px"/></p>
+<img src="./assets/gif/hi-there.gif" height="200px" width="720" />
 
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Sabin</h1>
-<h3 align="center">I'm a 2nd year software engineering student learning and exploring about the web develpment world.</h3>
+#### 🙋‍♂️
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=15F7BE&lines=Hey+there+%F0%9F%91%8B;My+name+is+Sabin+Baniya;Welcome+to+my+Github)](https://git.io/typing-svg)
 
-<h2 align="center"><strong> 🙋‍♂️ About Me</strong></h2>
+I'm a software engineering student currently stuyding in my country Nepal 🇳🇵. I'm a fullstack javascript developer although I'm mostly working on the frontend. I code for fun.
+
+<p align="center">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sabinbaniya&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</p>
+
+#### 🧑‍💻
+
 <div align="center">
 
-<p> 🌱 I’m currently learning <strong>Next JS</strong></p>
-
-<p> 👯 I’m looking to contribute to <strong>OpenSource Projects</strong></p>
-
-<p> 👨‍💻 All of my projects are available in <a href="https://portfolio.sabinbaniya.com.np">My Portfolio Website</a> </p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-  
-<br/>
 
-<h2 align="center"><strong> 🚀 Languages and Tools:</strong></h2>
+##### 🐤
 
-<p align="center"> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-<!--       <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="width:40px"/> </a>  -->
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/ style="width:50px">  </a>
-    <!-- <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>  -->
-    <!-- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>  -->
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://react-query.tanstack.com/" target="_blank"> <img src="https://react-query.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" alt="jenkins" width="48" height="48"/> </a> 
-    <!-- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
-</p>
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=sabinbaniya_&layout=wide&show_reply=off&show_retweet=off)](https://github.com/gazf/github-readme-twitter)
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-<p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sabinbaniya&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-<h2 align="center"><strong> 📊 My Github Stats</strong></h2>
-
-  <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Sabin Baniya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sabinbaniya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Sabin Baniya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabinbaniya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Sabin Baniya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sabinbaniya&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-<h2 align="center"> Connect with me:
-<p align="center">
-
-<a href = "https://twitter.com/sabinbaniya_" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a></a>
-
-</p></h2>
-
-<!-- ## ❤ Views and Followers -->
-<!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=sabin-baniya"> -->
-<!-- </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/sabin-baniya?label=Followers&style=social" alt="GitHub Badge"></a> -->
+#### 🐙
 
 ![github_graph](/profile-3d-contrib/profile-night-rainbow.svg)
