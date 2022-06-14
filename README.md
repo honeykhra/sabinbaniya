@@ -1,11 +1,11 @@
 <div align="center">
-        <img src="./assets/gif/coding.gif" height="300" width="720" />
+        <img src="./assets/gif/coding.gif" height="300" />
 </div>
 <div width="720">
 
 # 🙋‍♂️
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=15F7BE&lines=Hey+there+%F0%9F%91%8B;My+name+is+Sabin+Baniya;Welcome+to+my+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=5000&color=15F7BE&lines=Hey+there+%F0%9F%91%8B;Welcome+to+my+Github;My+name+is+Sabin+Baniya)](https://git.io/typing-svg)
 
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-nepal_1f1f3-1f1f5.png" height="15px"/>.
 
